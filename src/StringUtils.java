@@ -28,7 +28,8 @@ public class StringUtils {
         /* return the result of our calculation */
         return res;
     }
-
+    
+    
     /**
      * replaceStudentUsername -- replace student usernames in sensitive text
      * We want to make sure student information is expunged from sensitive
