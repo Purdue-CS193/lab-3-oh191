@@ -30,7 +30,6 @@ public class MathUtils {
             Ex: base = 2, exp = 2
                --> res = 2, then res = 4 */
         }
-
         /* If it's a negative exponent, we should invert it! */
         if (isNegative) {
             double dividedRes = divideNumbers(1, res);
